@@ -11,7 +11,7 @@ The stack for this webapp will be Express and NodeJS with Typescript for the bac
 ## Goal of this project
 The main goal of the project is for me to practice full stack development, work on building microservices from scratch, and apply best practices when developing applications.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
