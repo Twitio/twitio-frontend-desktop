@@ -1,0 +1,54 @@
+.twit {
+    border: 1px solid #cccccc;
+    width: 500px;
+    min-height: 100px;
+    padding: 10px;
+    display: flex;
+    font-family: "Helevetica", arial, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    margin: auto;
+}
+
+.avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.userName {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  margin-right: 0.3em;
+  font-size: 14px;
+}
+
+.handle {
+  color: #8899a6;
+  font-size: 11px;
+}
+
+.time {
+  padding-left: 0.3em;
+  color: #8899a6;
+  font-size: 11px;
+}
+
+.time::before {
+  content: "\00b7";
+  padding-right: 0.3em;
+}
+
+.text {
+  font-size: 14px;
+}
+
+.button {
+  width: 20px;
+  height: 20px;
+  border-radius: 5px;
+  margin-right: 75px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
